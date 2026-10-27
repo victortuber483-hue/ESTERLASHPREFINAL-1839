@@ -1,5 +1,22 @@
 # Pink Glitter — Design
 
+## Quem é Ester — reconstrução atual
+
+- “Beleza com propósito” passa a ser uma legenda centralizada logo abaixo da foto, em desktop e celular. Não alterar nome, títulos, foto ou texto.
+- Cancelado somente o pedido de foto lateral no celular: manter foto centralizada com texto abaixo. Preservar “Quem é Ester” como título da seção, no estilo de “Serviços”, e “Ester Lash” em destaque na apresentação. Desktop com foto à esquerda e apresentação à direita.
+- Substituir a apresentação anterior pela nova foto IMG_7105 enviada pela usuária, intacta e com fundo original. Sem remover fundo, máscara, recorte de pessoa ou brilho na foto.
+- Composição limpa: desktop foto à esquerda e texto à direita; celular título, foto centralizada e texto abaixo em largura normal. Nenhum texto contornando a foto.
+- Foto completa na proporção original 2:3, cantos discretos. Título serifado com brilho suave somente no nome. Manter texto aprovado, fundo pink e todas as outras seções.
+
+## Quem é Ester — seção aprovada
+
+- Refinamento: retirar o fundo branco da foto com recorte transparente, eliminar moldura e integrar ao pink; preservar rosto, roupa e espelho originais.
+- Título com “Ester” maior, brilho luminoso e destaque branco/rosa. No celular, título acima e retrato flutuante à direita: texto curto à esquerda da foto, retomando largura total abaixo dela.
+- Adicionar somente a seção biográfica abaixo de todos os serviços, preservando integralmente hero, preços, cards e WhatsApp.
+- Usar a foto original extraída da capa do catálogo, sem os textos sobrepostos do PDF, em moldura com topo curvo e contorno luminoso discreto.
+- Texto aprovado em terceira pessoa; título “Quem é Ester”. Cormorant Garamond no título, Poppins nos parágrafos, branco e rosa claro sobre o fundo pink/glitter existente.
+- Desktop: retrato à esquerda e texto à direita. Celular: retrato seguido do texto, com respiro e sem animação adicional. Sem novas APIs, tabelas ou botões.
+
 ## Foto editorial — substituição atual
 
 - Trocar somente a foto acima dos serviços pela nova imagem enviada em 27/10, preservando coração, contorno e ferramentas laterais.

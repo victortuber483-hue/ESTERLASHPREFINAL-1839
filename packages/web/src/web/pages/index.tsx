@@ -3,6 +3,7 @@ import { FrameHero } from "../components/frame-hero";
 import { WhatsAppButton } from "../components/whatsapp-button";
 import { LightTransition } from "../components/light-transition";
 import { Services } from "../components/services";
+import { AboutEster } from "../components/about-ester";
 
 function Index() {
   return (
@@ -13,7 +14,10 @@ function Index() {
       </div>
       <div className="page-content">
         <GlitterBackground />
-        <div className="page-content__inner"><Services /></div>
+        <div className="page-content__inner">
+          <Services />
+          <AboutEster />
+        </div>
       </div>
       <WhatsAppButton />
     </main>
